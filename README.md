@@ -1,4 +1,4 @@
-## Tic-Tac-Toe AI Player
+## Tic-Tac-Toe With Minimax
 
 This repository contains a Tic-Tac-Toe automated player game implemented using the Pygame library in Python. The game allows users to play against an AI player that uses the Minimax algorithm with Alpha-Beta pruning to make its moves.
 
